@@ -1,0 +1,12 @@
+{
+    "timestamp": "2026-02-08T18:46:55.274191",
+    "metrics": {
+        "exact_cache_hits": 0,
+        "semantic_cache_hits": 0,
+        "cache_misses": 0,
+        "provider_usage": {},
+        "total_tokens": 0,
+        "total_cost": 0.0,
+        "provider_cost_breakdown": {}
+    }
+}
