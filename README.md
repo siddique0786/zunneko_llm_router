@@ -125,9 +125,9 @@ src/
 
 ## 1️⃣ Clone Repository
 
-```bash
-git clone https://github.com/siddique0786/zunneko_llm_router.git
-cd zunneko_llm_router
+  ```bash
+  git clone https://github.com/siddique0786/zunneko_llm_router.git
+  cd zunneko_llm_router
 
 ---
 
